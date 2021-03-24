@@ -13,22 +13,16 @@ O diretório do github desse projeto foi dividido em 3 pastas cada qual com divi
   
 Backlog Atual - Requisitos V1:
     
-    
     calendario
-    
     
     alerta de prazo
     
-    
     lista de tarefas
-    
     
     Secção de materias
     
-    
-    Requisitos de dados
-    
+    Requisitos de dado
     
     Requisitos de tela
-    
+
 
