@@ -9,4 +9,4 @@ O diretório do github desse projeto foi dividido em 3 pastas cada qual com divi
   -Desing: O desing que atende aos requisitos de uma ou mais versão.
   
   
-  -Codigo: A codificação e teste do estipulado
+  -Codigo: A codificação e teste do estipulado em uma versão do desing
