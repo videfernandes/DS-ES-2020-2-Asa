@@ -10,3 +10,27 @@ O diretório do github desse projeto foi dividido em 3 pastas cada qual com divi
   
   
   -Codigo: A codificação e teste do estipulado em uma versão do desing
+  
+Backlog Atual:
+
+  Requisitos V1:
+    
+    
+    calendario
+    
+    
+    alerta de prazo
+    
+    
+    lista de tarefas
+    
+    
+    Secção de materias
+    
+    
+    Requisitos de dados
+    
+    
+    Requisitos de tela
+    
+
