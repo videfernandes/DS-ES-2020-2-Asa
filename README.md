@@ -1,28 +1,4 @@
 # DS-ES-2020-2-Asa
 O  ASA é um software de gestão de estudos pessoais que auxilia os usuários em seus estudos, tornando o ato de estudar mais rápido e eficiente, respeitando os prazos estipulados pelo usuário.
 
-O diretório do github desse projeto foi dividido em 3 pastas cada qual com divisões por versão. Essas são:
-
-  -requisitos: Os requisitos que devem ser atendidos pra cada sprint.
-  
-  
-  -Desing: O desing que atende aos requisitos de uma ou mais versão.
-  
-  
-  -Codigo: A codificação e teste do estipulado em uma versão do desing
-  
-Backlog Atual - Requisitos V1:
-    
-    calendario
-    
-    alerta de prazo
-    
-    lista de tarefas
-    
-    Secção de materias
-    
-    Requisitos de dado
-    
-    Requisitos de tela
-
 
